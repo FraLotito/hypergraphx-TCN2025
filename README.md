@@ -85,4 +85,4 @@ Key topics:
 
 Materials prepared for The Threads of Complex Networks (TCN2025) — Firenze, 16–19 settembre 2025.
 
-### Have fun and explore!
+### Explore and have fun!
