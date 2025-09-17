@@ -23,7 +23,6 @@ Usage examples:
 ```bash
 make test-ex01                  # run tests matching “ex01” against exercises/
 make test-solutions-ex01        # run tests matching “ex01” against solutions/
-make test-components            # e.g., anything matching “components”
 ```
 
 ---
