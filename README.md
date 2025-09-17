@@ -1,6 +1,8 @@
 # The Threads of Complex Networks — TCN2025  
 **Summer School • Firenze (Florence) • 16–19 settembre 2025**
 
+<img src="logo/logo.png" width="500" title="HGX logo">
+
 Hands-on materials for **Hypergraphx (HGX)**: programming exercises, tests and runnable notebooks.
 You’ll generate hypergraphs, compute statistics, build projections, generate random hypergraphs, compute motifs and detect communities.
 
