@@ -18,17 +18,6 @@ make test-solutions     # run tests against reference solutions
 
 ## Run a single test (pattern targets)
 
-Add these pattern targets to your **Makefile** (specific rule first):
-
-```make
-# Pattern targets (specific before generic)
-test-solutions-%:
-	TARGET_PACKAGE=solution $(PYTHON) -m pytest -q -k "$*"
-
-test-%:
-	$(PYTHON) -m pytest -q -k "$*"
-```
-
 Usage examples:
 
 ```bash
