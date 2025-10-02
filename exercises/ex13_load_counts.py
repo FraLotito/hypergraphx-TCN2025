@@ -15,6 +15,6 @@ def load_counts(path: str) -> Tuple[int, int]:
     """
     Return (num_nodes, num_edges) for the dataset at `path`.
     """
-    # TODO: use hypergraphx.io.load_hypergraph(path) then hg.num_nodes(), hg.num_edges()
+    # TODO: use hypergraphx.readwrite.load_hypergraph(path) then hg.num_nodes(), hg.num_edges()
     # Remove the line below when you start implementing.
     raise NotImplementedError("Implement me!")
